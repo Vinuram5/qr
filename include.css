@@ -1,0 +1,44 @@
+*{
+    background-color:blue;
+}
+.header{
+    border: 10px solid white;
+    width:400px;
+    height: 450px;
+    margin-top: 200px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+.header p{
+    background-color: white;
+    font-size: 20px;
+    color:black;
+    font-weight: bold;
+    padding: auto;
+    font-size: 35px;
+}
+.header input{
+    background-color: white;
+    padding: 4px;
+    border-radius: 10px;
+    width: 270px;
+    height: 30px;
+    font-size: 15px;
+}
+.header button{
+    border: 10px solid white;
+    background-color:#44fa56;
+    border-radius: 20px;
+    width: 230px;
+    height: 50px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#imgbox{
+    background-color:white;
+}
+#qrImage{
+    border-radius: 10px;
+}
